@@ -11,7 +11,7 @@ This project tests the functionality of the interest calculator app given, demon
 ## The framework includes: 
 - Login to application
 - Takes principal amount, interest amount and duration
-- Displays results to two decimal places.
+
 
 ## TO DO with more time
 - More boundary analysis 
