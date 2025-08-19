@@ -25,3 +25,12 @@ This project tests the functionality of the interest calculator app given, demon
 - More cleanup methods
 - Performance tests
 - Add config files / hide credentials
+
+## Findings
+- Remember me tick box doesn't actually remember anything, it also needs a space 'Remember me'
+- When clicking login, the warning 'The UserName field is required' needs a space.
+- Logo on interest calculator page doesn't load
+- 'Requirements' button flashes
+- Mandatory consent tick box isn't actually mandatory
+- Monthly interest doesn't calculate properly
+- Clicking on username in top right leads to an error
